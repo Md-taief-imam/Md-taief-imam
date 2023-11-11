@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-taief-imam&label=Profile%20views&color=0e75b6&style=flat" alt="Md-taief-imam" /> </p>
 
-- 🔭 I’m currently working on **manual and automation testing**
+- 🔭 I’m  working as a Software Quality Assurance Engineer with 5+ years. Have prominent experience on both **Manual and Automation** testing
 
-- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
+- 💬 Ask me about **Manual Testing, Automation Testing**
 
 - 📫 How to reach me **taiefmeraj07@gmail.com**
 
