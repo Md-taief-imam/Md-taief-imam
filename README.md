@@ -16,6 +16,7 @@
 **QA EXPERIENCE TYPES OF PROJECTS APP & DOMAINS:**
 
 ◉ SaaS, E-Commerce, Healthcare, ERP applications
+
 ◉ Mobile Application and Games
 ◉ Social Media, Instant Messaging based applications
 ◉ Immigration, Ticket Booking applications
