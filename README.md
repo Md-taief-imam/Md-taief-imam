@@ -31,8 +31,7 @@
         src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
         alt="taiefmeraj07@gmail.com" height="30" width="80" />
     </a>
-        
-<a href="https://www.fiverr.com/taiefmeraj?up_rollout=true" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/4/fiverr.svg" alt="taiefmeraj" height="30" width="80" /></a>
+<a href="https://www.fiverr.com/taiefmeraj" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/4/fiverr.svg" alt="taiefmeraj" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
