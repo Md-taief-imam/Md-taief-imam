@@ -13,6 +13,15 @@
 
 - 📫 How to reach me **taiefmeraj07@gmail.com**
 
+**QA EXPERIENCE TYPES OF PROJECTS APP & DOMAINS:**
+
+◉ SaaS, E-Commerce, Healthcare, ERP applications
+◉ Mobile Application and Games
+◉ Social Media, Instant Messaging based applications
+◉ Immigration, Ticket Booking applications
+◉ Movie stream, Travel Domain
+◉ Customer Service application
+◉ Trading Platform, Crypto
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-taief-imam-380384142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-taief-imam-380384142" height="30" width="40" /></a>
