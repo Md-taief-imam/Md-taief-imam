@@ -32,7 +32,7 @@
         alt="taiefmeraj07@gmail.com" height="30" width="80" />
     </a>
 <a href="https://www.fiverr.com/taiefmeraj" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/4/fiverr.svg" alt="taiefmeraj" height="30" width="80" /></a>
-<a href="https://www.upwork.com/freelancers/~013cc388f55f68119d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" alt="~013cc388f55f68119d" height="30" width="80" /></a>
+<a href="https://www.upwork.com/freelancers/~013cc388f55f68119d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" alt="~013cc388f55f68119d" height="40" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
