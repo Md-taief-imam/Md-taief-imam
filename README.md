@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-taief-imam&label=Profile%20views&color=0e75b6&style=flat" alt="Md-taief-imam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-taief-imam&label=Profile%20views&color=091852&style=flat" alt="Md-taief-imam" /> </p>
 
 - 🔭 I’m  working as a Software Quality Assurance Engineer with 5+ years. Have prominent experience on both **Manual and Automation** testing
 
